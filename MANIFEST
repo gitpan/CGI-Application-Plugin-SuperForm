@@ -1,0 +1,11 @@
+Changes
+MANIFEST			This list of files
+MANIFEST.SKIP
+META.yml
+Makefile.PL
+README
+lib/CGI/Application/Plugin/SuperForm.pm
+t/01_basic.t
+t/99_pod.t
+t/TestApp1.pm
+

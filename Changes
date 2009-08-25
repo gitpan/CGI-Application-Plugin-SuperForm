@@ -1,0 +1,5 @@
+Revision history for Perl extension CGI::Application::Plugin::ValidateRM.
+
+0.01  Sat Mar 29 07:46:31 2003
+	- original version; Based on Mark Stosbergs ValidateRM plugin
+
