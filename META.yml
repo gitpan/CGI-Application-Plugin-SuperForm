@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               CGI-Application-Plugin-SuperForm
-version:            0.1.1
+version:            0.1.2
 abstract:           ~
 author:  []
 license:            unknown
