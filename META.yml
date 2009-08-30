@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               CGI-Application-Plugin-SuperForm
-version:            0.1
+version:            0.1.1
 abstract:           ~
 author:  []
 license:            unknown
@@ -16,7 +16,7 @@ no_index:
     directory:
         - t
         - inc
-generated_by:       ExtUtils::MakeMaker version 6.50
+generated_by:       ExtUtils::MakeMaker version 6.54
 meta-spec:
     url:      http://module-build.sourceforge.net/META-spec-v1.4.html
     version:  1.4

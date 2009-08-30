@@ -1,5 +1,9 @@
-Revision history for Perl extension CGI::Application::Plugin::ValidateRM.
+Revision history for Perl extension CGI::Application::Plugin::SuperForm.
 
-0.01  Sat Mar 29 07:46:31 2003
+
+0.1  Sat Aug 29 10:46:31 2009
+	- removed irrelevant test. no changes to code.
+
+0.1  Wed Aug 26 07:46:31 2009
 	- original version; Based on Mark Stosbergs ValidateRM plugin
 

@@ -15,7 +15,7 @@ require Exporter;
 @EXPORT_OK = qw(
 );
 
-$VERSION = '0.1';
+$VERSION = '0.1.1';
 
 sub superform {
 	my $c       = shift;

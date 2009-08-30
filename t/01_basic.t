@@ -1,6 +1,4 @@
-use Test::More tests => 9;
-BEGIN { use_ok('CGI::Application::Plugin::ValidateRM') }
-
+use Test::More tests => 8;
 use lib './t';
 use strict;
 
