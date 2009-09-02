@@ -4,8 +4,10 @@ MANIFEST.SKIP
 META.yml
 Makefile.PL
 README
+EXAMPLES
 lib/CGI/Application/Plugin/SuperForm.pm
 t/01_basic.t
+t/98_pod_coverage.t
 t/99_pod.t
 t/TestApp1.pm
 

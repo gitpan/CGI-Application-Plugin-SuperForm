@@ -1,6 +1,7 @@
 package CGI::Application::Plugin::SuperForm;
 use HTML::SuperForm;
 use strict;
+use warnings;
 use vars qw($VERSION @ISA @EXPORT @EXPORT_OK);
 
 require Exporter;
@@ -15,7 +16,7 @@ require Exporter;
 @EXPORT_OK = qw(
 );
 
-$VERSION = '0.2';
+$VERSION = '0.3';
 
 sub superform {
 	my $c       = shift;
