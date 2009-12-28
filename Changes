@@ -1,5 +1,10 @@
 Revision history for Perl extension CGI::Application::Plugin::SuperForm.
 
+0.5 Mon Dec 28 13:30:08 EST 2009
+
+    - removed non-existing file from manifest.
+    - no code changes
+
 0.4 Sat Oct 17 22:40:27 EDT 2009
 
     - added license => perl to makefile
